@@ -48,8 +48,9 @@ footer{
 	padding: 25px;
 }
 
-p{
+main p{
 	text-align: center;
+	text-shadow: 1.5px 1.5px black;
 }
 
 ol{
