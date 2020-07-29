@@ -49,7 +49,7 @@ footer{
 }
 
 main p{
-	text-align: center;
+	text-align: left;
 	text-shadow: 1.5px 1.5px black;
 }
 
@@ -68,16 +68,12 @@ main a:link{
 	color: #EA1B60; 
 }
 
-main img:hover{
-	IMAG
-}
-
 main p{
 	color: #EA1B60;
 }
 
 footer a:hover{
-	opacity: .5;
+	opacity: 80;
 	background-color: transparent;
 }
 
@@ -96,4 +92,9 @@ footer p{
 .quote{
 	padding: 0px;
 	color: #EA1B60;
+	text-align: center;
+}
+
+.hover:hover{
+	color: rgba(255, 156, 0, 100);
 }
